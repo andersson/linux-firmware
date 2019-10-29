@@ -3058,6 +3058,8 @@ Licence: ath10k/QCA9984/hw1.0/notice_ath10k_firmware-5.txt
 File: ath10k/QCA9377/hw1.0/firmware-6.bin
 Version: WLAN.TF.2.1-00021-QCARMSWP-1
 Licence: ath10k/QCA9377/hw1.0/notice_ath10k_firmware-6.txt
+File: ath10k/WCN3390/hw1.0/board-2.bin
+Licence: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
 
